@@ -12,10 +12,10 @@ $ ./Zxie_TR toy.dat
 This project use GraphBLAS Template Library https://github.com/cmu-sei/gbtl which wap some useful function based on GraphBLAS
 before running, use 
 ```
-tail +<no_number_line> data.txt > data.txt
+tail +<no_number_line> data.txt > new_data.txt
 ```
 to remove no_number_line in data, then we can run it:
 
 ```
-$ ./Zxie_TR <data>
+$ ./Zxie_TR <new_data>
 ```
