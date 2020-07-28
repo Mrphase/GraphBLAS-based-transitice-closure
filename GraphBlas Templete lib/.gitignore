@@ -1,0 +1,12 @@
+*~
+#*#
+.#*
+~$*
+*.bak
+*.map
+.DS_Store
+.tox
+*.map
+autom4te.cache
+build
+docs
