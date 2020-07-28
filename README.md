@@ -9,7 +9,7 @@ $ ./Zxie_TR toy.dat
 ```
 ### run it
 
-This project use GraphBLAS Template Library https://github.com/cmu-sei/gbtl which wap some useful function based on GraphBLAS
+This project use GraphBLAS Template Library https://github.com/cmu-sei/gbtl which wap some useful function base on GraphBLAS
 before running, use 
 ```
 tail +<no_number_line> data.txt > new_data.txt
