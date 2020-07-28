@@ -1,0 +1,18 @@
+
+
+cd ~/gbtl-master/build
+cmake ../src
+make -i -j 18
+cd ..
+./run_tests.sh 
+cd ~/gbtl-master/build/bin
+./Zxie_TR    to
+
+cd ~/gbtl-master/build
+cmake ../src
+make -i -j 18
+cd ..
+./run_tests.sh 
+cd ~/gbtl-master/build/bin
+./mxm_homework 
+
